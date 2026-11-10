@@ -1,0 +1,6 @@
+{
+  "name": "EcoBazar",
+  "description": "EcoBazar - Premium E-Commerce Store with multiple categories, cart, search, user authentication, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
